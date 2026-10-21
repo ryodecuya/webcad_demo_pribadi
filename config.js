@@ -3,5 +3,5 @@ window.WEBCAD_CONFIG = {
   edition: "demo",
   buyUrl: "https://ilmudrafter.myr.id/catalog/webcad-2d-full-version-pribadi",                 // <- GANTI dengan link halaman produk Mayar Anda
   buyLabel: "Beli versi lengkap",
-  contact: { name: "", email: "", whatsapp: "", website: "" }
+  contact: { name: "", email: "", whatsapp: "6285790442259", website: "" }
 };
